@@ -1,6 +1,6 @@
 # Null Crafter
 
-Hi, I'm a magical hare, or 法師兔 in Chinese.
+Hi, I'm a magical hare, or ᚺᚨᚱᛖ in Elder Futhark.
 
 Craft-wise, I'm a programmer (a dev maybe?) and seasoned Linux sysadmin.
 
